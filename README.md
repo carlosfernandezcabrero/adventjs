@@ -1,4 +1,4 @@
-# 🌟🎅🎄 Advent JS 2022
+# 🌟🎅🎄 Advent JS
 
 ![Advent JS 2022](https://i.imgur.com/HUihoze.jpg)
 
