@@ -13,7 +13,7 @@
 
 <h3 align="center">🧑‍🚀 25 días / 25 retos de código • <a href="https://adventjs.dev">adventJS</a> 🚀</h3>
 
-<p align="center">Este repositorio contiene las soluciones de los retos propuestos pot @midudev a traves del proyecto AdventJS de varios años.</p>
+<p align="center">Este repositorio contiene las soluciones de los retos propuestos por @midudev a traves del proyecto AdventJS de varios años.</p>
 
 ## Tabla de links
 
