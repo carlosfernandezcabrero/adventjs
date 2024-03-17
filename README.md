@@ -17,6 +17,6 @@
 
 ## Tabla de links
 
-|    Edición     |    Markdown     |               Url               |
-| :------------: | :-------------: | :-----------------------------: |
-| Ultima edición | [Link](2023.md) | [Link](https://adventjs.dev/es) |
+| Edición |    Markdown     |               Url               |
+| :-----: | :-------------: | :-----------------------------: |
+|  2023   | [Link](2023.md) | [Link](https://adventjs.dev/es) |
